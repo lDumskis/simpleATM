@@ -1,0 +1,22 @@
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Program Files (x86)\IS18S\IS18S\Programavimas\Bankomatas\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
